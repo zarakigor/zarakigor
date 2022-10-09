@@ -1,15 +1,13 @@
 <h1 align="center">Hi there 👋</h1>
 
 - 🌱 I’m currently learning  React.Js, Next.Js Tailwind etc.
+- 📫 How to reach me: [unparlak@gmail.com](mailto:unparlak@gmail.com)
 
 ### Connect with me:
 <div>
-  
   <a href="https://www.linkedin.com/in/%C3%BCnalparlak/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://stackoverflow.com/users/17551771/%c3%9cnal-parlak"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </div>
-
-
 
 
 ### Technologies:
@@ -47,7 +45,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
