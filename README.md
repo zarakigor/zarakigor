@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🌱 I’m currently learning  React.Js, Next.Js Tailwind etc.
+- 🌱 I’m currently learning  **React.Js, Next.Js and Tailwind**
+- 💬 Ask me about **React, Javascript, CSS**
 - 📫 How to reach me: [unparlak@gmail.com](mailto:unparlak@gmail.com)
 
 ### Connect with me:
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
